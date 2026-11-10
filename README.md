@@ -1,2 +1,2 @@
-# test_cases_Dotiza.ru
-Тест-кейсы для тестирование сайта Dotiza.ru
+# test_cases_dotiza.ru
+Тест-кейсы для тестирование сайта dotiza.ru
